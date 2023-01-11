@@ -6,5 +6,5 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     print('\033[1;32m[•] Congrats! Your Device Support This Tools>
     os.system('xdg-open https://youtube.com/@dxcyberboy1056>
-    import 35_enc
-    35_enc.menu()
+    import Love_enc
+    Love_enc.menu()
